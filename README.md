@@ -21,20 +21,16 @@ Ensure you have the above requirements installed. You can install the necessary 
 pip install requests termcolor
 ```
 
-## Usage 🚀
+## Installation 🚀
 
 To use the GOOGLE API KEY CHECKER, follow these steps:
 
-1. Save the script to a file, for example, `google-api-tester.py`.
-2. Open your terminal or command prompt.
-3. Navigate to the directory where `google-api-tester.py` is located.
-4. Run the script with your Google Maps API key as an argument:
-
 ```bash
-python google-api-check.py <your_api_key>
-```
+git clone https://github.com/saladandonionrings/google-apikey-checker.git
+cd google-apikey-checker
 
-Replace `<your_api_key>` with your actual Google Maps API key.
+python3 google-api-check.py <your_api_key>
+```
 
 ## Output 📌
 
